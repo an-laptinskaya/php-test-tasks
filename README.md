@@ -86,4 +86,4 @@ Provide an opportunity to make calculations by chain.
 
 ## Developers
 
-- [an-rabtsevich](https://github.com/an-rabtsevich)
+- [an-laptinskaya](https://github.com/an-laptinskaya)
